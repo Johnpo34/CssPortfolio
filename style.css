@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+.navbar {
+    background-color: steelblue;
+    display: flex;
+    flex-direction: row;
+}
+li {
+    color: white
+}
