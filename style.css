@@ -1,11 +1,64 @@
+* {
+    margin: 0;
+}
+
 body {
     background-color: lightblue;
+    /* maybe do a fading background */
 }
 .navbar {
     background-color: steelblue;
+    /* flex-direction: row; */
+    padding:25px 10px;
+    margin-bottom: 50px;
+}
+.main-nav {
+    display: flex;
+    width: 100% ;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-nav ul {
     display: flex;
     flex-direction: row;
+    list-style: none;
 }
-li {
-    color: white
+
+.main-nav li {
+    margin-right: 10px;
+}
+
+.main-nav li> a {
+    color: white;
+    align-items: center;
+}
+
+article {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+article h2 {
+    width: 20%;
+    margin-top: 10px;
+    padding: 50px 0;
+    text-align: right;
+}
+.info {
+    border-left: 3px solid black;
+    width: 95%;
+    padding-left: 5px;
+    margin-left: 30px;
+}
+
+.project-img {
+    width: 60%;
+    border: 2px solid black;
+}
+
+article ul {
+    list-style: none;
 }
