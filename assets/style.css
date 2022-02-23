@@ -4,11 +4,9 @@
 
 body {
     background-color: lightblue;
-    /* maybe do a fading background */
 }
 .navbar {
     background-color: steelblue;
-    /* flex-direction: row; */
     padding:25px 10px;
     margin-bottom: 50px;
 }
