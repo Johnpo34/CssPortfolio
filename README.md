@@ -5,6 +5,6 @@ For this project I created a new site as a portfolio.  I set up different sectio
 # git hub url
 https://github.com/Johnpo34/CssPortfolio
 # deployed url
-file:///Users/johnpohl/Desktop/Bootcamp/homework/CssPortfolio/index.html
+https://johnpo34.github.io/CssPortfolio/
 # screenshot
 <img width="1167" alt="Screen Shot 2021-12-09 at 6 23 28 PM" src="https://user-images.githubusercontent.com/94233506/145491301-46ab53e3-ba2d-4031-8468-1e3aad18602c.png">
